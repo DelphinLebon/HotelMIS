@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section_1{
+    border-bottom: 1px solid black;
+    padding: 25px;
+    background-color: #dfe4ea;
+}
+.text-center{
+    text-align: center;
+    background-color: #ced6e0;
+    padding: 20px;
+}
